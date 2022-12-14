@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.jotform.com	TRUE	/	FALSE	1999999999	__cfduid	dfdcf380b42340e7003a76528ea0994391582555865
+www.jotform.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

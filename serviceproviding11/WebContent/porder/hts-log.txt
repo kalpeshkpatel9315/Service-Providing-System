@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 24 Feb 2020 20:21:04 at https://www.jotform.com/build/200543750233445 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.jotform.com/build/200543750233445 -O1 "C:\My Web Sites\porder" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:21:25	Error: 	"Not Found" (404) at link https://www.jotform.com/form/AppleWebKit/ (from https://cdn.jotfor.ms/static/prototype.forms.js)
+20:21:25	Error: 	"Not Found" (404) at link https://www.jotform.com/form/submit.php (from https://cdn.jotfor.ms/static/jotform.forms.js?3.3.15636)
+20:21:25	Error: 	"Not Found" (404) at link https://www.jotform.com/form/server.php (from https://cdn.jotfor.ms/static/jotform.forms.js?3.3.15636)
+20:21:25	Error: 	"Not Found" (404) at link https://www.jotform.com/form/Trident/ (from https://cdn.jotfor.ms/static/jotform.forms.js?3.3.15636)
+20:21:26	Error: 	"Not Found" (404) at link https://www.jotform.com/form/POST (from https://cdn.jotfor.ms/static/jotform.forms.js?3.3.15636)
+20:21:26	Error: 	"Not Found" (404) at link https://www.jotform.com/form/datepicker.html (from https://cdn.jotfor.ms/static/jotform.forms.js?3.3.15636)
+20:21:26	Error: 	"Not Found" (404) at link https://www.jotform.com/form/safari/ (from https://cdn.jotfor.ms/static/jotform.forms.js?3.3.15636)
+20:21:26	Error: 	"Not Found" (404) at link https://www.jotform.com/form/mobile.responsive.min.css (from https://cdn.jotfor.ms/static/jotform.forms.js?3.3.15636)
+20:21:26	Error: 	"Not Found" (404) at link https://www.jotform.com/form/china.jotfor.ms (from https://cdn.jotfor.ms/static/jotform.forms.js?3.3.15636)
+20:21:26	Error: 	"Not Found" (404) at link https://www.jotform.com/form/noImage-placeholder.svg (from https://cdn.jotfor.ms/static/jotform.forms.js?3.3.15636)
+
+HTTrack Website Copier/3.49-2 mirror complete in 22 seconds : 34 links scanned, 23 files written (845934 bytes overall) [380649 bytes received at 17302 bytes/sec], 1113677 bytes transferred using HTTP compression in 22 files, ratio 22%, 1.5 requests per connection
+(10 errors, 0 warnings, 0 messages)
